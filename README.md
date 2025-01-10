@@ -1,6 +1,6 @@
-# Data Analysis Projects
+# Data Visualization
 
-This repository showcases two data analysis projects presented as interactive ArcGIS StoryMaps. Each project combines narrative text with interactive maps and multimedia content to provide an engaging exploration of the topics.
+This repository showcases two data analysis results presented as interactive ArcGIS StoryMaps. Each project combines narrative text with interactive maps and multimedia content to provide an engaging exploration of the topics.
 
 ## Projects
 
@@ -8,7 +8,7 @@ This repository showcases two data analysis projects presented as interactive Ar
 
 This StoryMap offers a comprehensive guide for hosting a discerning friend visiting Hong Kong. It highlights various attractions, dining options, and cultural experiences tailored to impress even the most selective visitors.
 
-[![When My Picky Friend Is Coming to Hong Kong](images/picky_friend.png)](https://storymaps.arcgis.com/stories/c078aced71ec4fec8df26fbdca7fbe63)
+[![When My Picky Friend Is Coming to Hong Kong](images/picky_friends.png)](https://storymaps.arcgis.com/stories/c078aced71ec4fec8df26fbdca7fbe63)
 
 *Explore the StoryMap: [When My Picky Friend Is Coming to Hong Kong](https://storymaps.arcgis.com/stories/c078aced71ec4fec8df26fbdca7fbe63)*
 
